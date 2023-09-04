@@ -1,6 +1,6 @@
 # Student Registration System
 
-A simple Student Registration System application built in Python using the tkinter library for the graphical user interface (GUI) and openpyxl for data storage.
+Student Registration System application built in Python using the tkinter library for the graphical user interface (GUI) and openpyxl for data storage.
 
 ## Overview
 
